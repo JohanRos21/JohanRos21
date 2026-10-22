@@ -93,6 +93,4 @@ available when the ML service is unavailable.
 
 I'm open to opportunities in **Full-Stack Development, Applied AI and Automation**.
 
-LinkedIn: `LINKEDIN_URL` · Portfolio: `PORTFOLIO_URL` · Email: `EMAIL`
-
-<!-- Replace the contact placeholders above with verified public links. -->
+[LinkedIn](https://www.linkedin.com/in/johanrosalescolan) · [Portfolio](https://landing-page-johanros21s-projects.vercel.app/) · [johan_21_2015@outlook.com](mailto:johan_21_2015@outlook.com)
